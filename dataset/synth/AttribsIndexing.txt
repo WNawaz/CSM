@@ -1,0 +1,5 @@
+First Attribute (English Alphabets)
+A(1),B(2),C(3),...Z(26)
+
+Second Attribute (Special Characters)
+$(1),@(2),#(3),%(4),&(5)

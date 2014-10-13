@@ -1,0 +1,3 @@
+attribute	count	values
+1	3	low_prolific,prolific,high_prolific
+2	99	1,2,3...99

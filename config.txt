@@ -1,0 +1,43 @@
+5000
+2	3	99
+dataset/coauthor/nodes.txt
+dataset/coauthor/edges.txt
+50
+1.0
+false
+
+//****************************//
+1. number of nodes/vertices
+2. attribs	attribsCount
+3. node file path
+4. edge file path
+5. number of clusters
+6. Alpha value
+7. Is the centroids selection random (true/false)
+
+Example 1:
+1490
+1	2
+dataset/pblog/nodes.txt
+dataset/pblog/edges.txt
+3
+0.5
+false
+
+Example2:
+5000
+2	3	99
+dataset/coauthor/nodes.txt
+dataset/coauthor/edges.txt
+10
+0.5
+false
+
+Example3:
+6
+2	4	3
+dataset/synth/nodes.txt
+dataset/synth/edges.txt
+4
+0.5
+false

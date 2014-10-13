@@ -1,0 +1,7 @@
+1 Blogarama
+2 BlogCatalog
+3 LeftyDirectory
+4 eTalkingHead
+5 CampaignLine
+6 LabeledManually
+7 BlogPulse
